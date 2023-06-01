@@ -4,8 +4,7 @@ trzecialinia
 <<<<<<< HEAD
 +jestem_tutaj?
 
-
-
++++
 
 
 
