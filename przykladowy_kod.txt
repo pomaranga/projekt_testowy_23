@@ -3,7 +3,7 @@ druga linia
 trzecialinia
 <<<<<<< HEAD
 +jestem_tutaj?
-
+nanomachines, son!
 +++
 
 
