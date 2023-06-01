@@ -1,6 +1,7 @@
 pierwsza linia
 druga linia
 trzecialinia
+<<<<<<< HEAD
 +jestem_tutaj?
 
 
@@ -9,3 +10,8 @@ trzecialinia
 
 
 Jestem tutaj
+=======
+dbdbdfbdfbfdf
+moja zmiana, jest najlepszą zmianą, wszystkie inne to słabe zmiany
+online
+>>>>>>> 377766071e259fa2e484ab7dcb8c22c663a75548
