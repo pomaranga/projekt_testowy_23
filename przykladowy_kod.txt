@@ -2,3 +2,4 @@ pierwsza linia
 druga linia
 trzecialinia
 
+moja zmiana, jest najlepszą zmianą, wszystkie inne to słabe zmiany
