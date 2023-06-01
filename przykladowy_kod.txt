@@ -15,5 +15,12 @@ dbdbdfbdfbfdf
 moja zmiana, jest najlepszą zmianą, wszystkie inne to słabe zmiany
 online
 >>>>>>> 377766071e259fa2e484ab7dcb8c22c663a75548
+<<<<<<< HEAD
 
 Mam_Na_Imie_Wladislawczik
+=======
+:)
+miłego dnia 
+
+dzięki, nawzajem
+>>>>>>> ab2f989889f09abe9f64cba4f132e2c870557eb5
